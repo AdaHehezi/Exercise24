@@ -36,12 +36,12 @@ const FAQ = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/Contact" className="nav-link" target="_blank">
+              <Link to="/Contact" className="nav-link">
                 <i className="fa fa-envelope"></i> Contact Us
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/FAQ" className="nav-link" target="_blank">
+              <Link to="/FAQ" className="nav-link">
                 <i className="fa fa-question"></i> FAQ
               </Link>
             </li>
