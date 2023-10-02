@@ -1,0 +1,42 @@
+[
+  {
+    "question": "1.How do I book a trip on your website?",
+    "answer": "To book a trip with us, simply visit our homepage and use the search bar to enter your destination, travel dates, and other preferences. Browse the available options, select the one that suits you best, and follow the prompts to complete the booking process."
+  },
+  {
+    "question": "2.Can I make changes to my booking after it's confirmed?",
+    "answer": "Yes, you can make changes to your booking depending on the airline, hotel, or travel provider's policies. Some changes may incur fees, while others may be allowed free of charge. Contact our customer support team for assistance with modifying your booking."
+  },
+  {
+    "question": "3.What payment methods do you accept?",
+    "answer": "We accept major credit and debit cards, including Visa, MasterCard, American Express, and Discover. Additionally, we offer secure payment options like PayPal for your convenience."
+  },
+  {
+    "question": "4.Is my personal information safe when I book through your website?",
+    "answer": "Absolutely! We take the security and privacy of your information seriously. Our website uses advanced encryption technologies to protect your data, and we adhere to strict privacy policies. You can trust that your personal information is safe with us."
+  },
+  {
+    "question": "5.Do you offer travel insurance?",
+    "answer": "Yes, we offer travel insurance options to provide you with peace of mind during your trip. You can add travel insurance during the booking process or contact our customer support team for assistance."
+  },
+  {
+    "question": "6.How do I get my booking confirmation and travel documents?",
+    "answer": "Once your booking is confirmed, you will receive an email with your booking details and confirmation. You can access your travel documents, including e-tickets and hotel vouchers, by logging into your account on our website."
+  },
+  {
+    "question": "7.What should I do if I encounter issues during my trip, such as flight delays or hotel problems?",
+    "answer": "In case of any issues during your trip, please contact our 24/7 customer support team. We are here to assist you and can provide guidance and support to resolve any travel-related problems."
+  },
+  {
+    "question": "8.Can I cancel my booking, and what is the cancellation policy?",
+    "answer": "Yes, you can cancel your booking, but the cancellation policy varies depending on the service provider (airline, hotel, etc.) and the type of fare or reservation you've chosen. Check the cancellation policy before booking, and if you need to cancel, contact our customer support team for assistance."
+  },
+  {
+    "question": "9.Are there any loyalty programs or discounts for frequent travelers?",
+    "answer": "Yes, we offer loyalty programs and special discounts for our frequent travelers. Join our loyalty program to earn rewards and enjoy exclusive perks. Keep an eye on our website for limited-time promotions and discounts as well."
+  },
+  {
+    "question": "10.How can I contact customer support if I have further questions or need assistance?",
+    "answer": "You can reach our customer support team by phone, email, or through our website's live chat feature. Visit our 'Contact Us' page for all the contact details and operating hours."
+  }
+]
